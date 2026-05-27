@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2FF,100:FF4ECD&height=220&section=header&text=Kalel%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:00FFA3&height=220&section=header&text=Kalel%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
   />
 </p>
 
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-🌱 Estudando Flutter, APIs e UML  
-💡 Apaixonado por tecnologia e design  
-🎯 Objetivo: desenvolver soluções inovadoras e minha própria IA  
+🌱 Estudando Flutter, APIs e UML <br>
+💡 Apaixonado por tecnologia e design <br>
+🎯 Objetivo: desenvolver soluções inovadoras e minha própria IA
 
 </div>
 
@@ -34,35 +34,15 @@
 
 <div align="center">
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  height="65"
-  width="65"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="65" />
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  height="65"
-  width="65"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" width="65" />
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  height="65"
-  width="65"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" />
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-  height="65"
-  width="65"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" width="65" />
 
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-  height="65"
-  width="65"
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="65" width="65" />
 
 </div>
 
@@ -76,12 +56,12 @@
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=00F5A0&text_color=ffffff&icon_color=00F5A0&border_color=00F5A0"
 />
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=00F5A0&text_color=ffffff&border_color=00F5A0"
 />
 
 </div>
@@ -93,12 +73,20 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-00F5A0?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
 <a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-00D9F5?style=for-the-badge&logo=gmail&logoColor=black">
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Flutter+Developer;UI%2FUX+Designer;Sempre+aprendendo+novas+tecnologias"/>
 
 </div>
 
