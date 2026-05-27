@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Sistemas e apaixonado por tecnologia
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 💻 Estudando desenvolvimento Front-End e Mobile
 - 📱 Aprendendo Flutter
