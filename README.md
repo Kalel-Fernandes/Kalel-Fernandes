@@ -8,7 +8,7 @@
 
 <!-- TÍTULO -->
 
-<h1 align="center">Olá 👋 Eu sou o Kalel</h1>
+<h1 align="center">Olá, Eu sou o Kalel</h1>
 
 <h3 align="center">
 💻 Estudante de Desenvolvimento de Sistemas • 🚀 Flutter Developer • 🎨 UI Designer
@@ -20,9 +20,9 @@
 
 <div align="center">
 
-🌱 Estudando Flutter, APIs e UML <br>
-💡 Apaixonado por tecnologia e design <br>
-🎯 Objetivo: desenvolver soluções inovadoras e minha própria IA
+Estudando Flutter, APIs e UML <br>
+Apaixonado por tecnologia e design <br>
+Objetivo: desenvolver soluções inovadoras e minha própria IA
 
 </div>
 
@@ -56,12 +56,12 @@
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=00F5A0&text_color=ffffff&icon_color=00F5A0&border_color=00F5A0"
+  src="https://github-readme-stats.vercel.app/api?username=Kalel-Fernandes&show_icons=true&theme=transparent&title_color=00F5A0&text_color=ffffff&icon_color=00F5A0&border_color=00F5A0"
 />
 
 <img 
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=00F5A0&text_color=ffffff&border_color=00F5A0"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalel-Fernandes&layout=compact&theme=transparent&title_color=00F5A0&text_color=ffffff&border_color=00F5A0"
 />
 
 </div>
@@ -87,13 +87,5 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Flutter+Developer;UI%2FUX+Designer;Sempre+aprendendo+novas+tecnologias"/>
-
-</div>
-
----
-
-<div align="center">
-
-✨ Obrigado por visitar meu perfil ✨
 
 </div>
