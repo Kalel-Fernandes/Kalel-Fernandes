@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Kalel 👋
+# Olá, eu sou Kalel
 
 ### Desenvolvedor em formação | Flutter | Web | APIs
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas
 - 💻 Apaixonado por tecnologia
@@ -45,10 +45,10 @@
 
 | Projeto | Descrição |
 |----------|----------|
-| 🍕 Pizzaria | Sistema de pedidos |
-| 🍰 Doceria | Site responsivo |
-| 🏥 Hospital | Sistema de monitoramento |
-| 📦 Rastreamento | API + Webhook |
+| Pizzaria | Sistema de pedidos |
+| Doceria | Site responsivo |
+| Hospital | Sistema de monitoramento |
+| Rastreamento | API + Webhook |
 
 ---
 
