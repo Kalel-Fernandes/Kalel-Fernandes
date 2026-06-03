@@ -4,7 +4,7 @@
 
 ### Desenvolvedor em formação | Flutter | Web | APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Flutter+e+APIs;Sempre+buscando+evoluir!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Desenvolvimento+de+Sistemas;Aprendendo+Flutter+e+APIs;Sempre+buscando+evoluir!" />
 
 </div>
 
