@@ -84,7 +84,7 @@ UML
 ## Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
   <img alt="snake animation"
