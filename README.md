@@ -1,91 +1,94 @@
-<!-- BANNER -->
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00D9F5,100:00FFA3&height=220&section=header&text=Kalel%20Fernandes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-  />
-</p>
-
-<!-- TÍTULO -->
-
-<h1 align="center">Olá, Eu sou o Kalel</h1>
-
-<h3 align="center">
-💻 Estudante de Desenvolvimento de Sistemas • 🚀 Flutter Developer • 🎨 UI Designer
-</h3>
-
----
-
-## 🚀 Sobre mim
-
 <div align="center">
 
-Estudando Flutter, APIs e UML <br>
-Apaixonado por tecnologia e design <br>
-Objetivo: desenvolver soluções inovadoras e minha própria IA
+# Olá, eu sou Kalel 👋
+
+### Desenvolvedor em formação | Flutter | Web | APIs
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9A3&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Flutter+e+APIs;Sempre+buscando+evoluir!" />
 
 </div>
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🚀 Sobre Mim
 
-<br>
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="65" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" width="65" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="65" width="65" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="65" width="65" />
-
-</div>
-
-<br>
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 💻 Apaixonado por tecnologia
+- 📱 Desenvolvedor Flutter
+- 🌐 Desenvolvedor Web
+- 🎨 Designer de interfaces com Figma
+- 📚 Atualmente estudando novas tecnologias
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🛠 Tecnologias
 
 <div align="center">
 
-<img 
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=Kalel-Fernandes&show_icons=true&theme=transparent&title_color=00F5A0&text_color=ffffff&icon_color=00F5A0&border_color=00F5A0"
-/>
-
-<img 
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalel-Fernandes&layout=compact&theme=transparent&title_color=00F5A0&text_color=ffffff&border_color=00F5A0"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,figma,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🌐 Contato
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-00F5A0?style=for-the-badge&logo=linkedin&logoColor=black">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalel-Fernandes&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📌 Projetos
+
+| Projeto | Descrição |
+|----------|----------|
+| 🍕 Pizzaria | Sistema de pedidos |
+| 🍰 Doceria | Site responsivo |
+| 🏥 Hospital | Sistema de monitoramento |
+| 📦 Rastreamento | API + Webhook |
+
+---
+
+## Atualmente Aprendendo
+
+```txt
+Flutter
+Dart
+JavaScript
+APIs REST
+Webhooks
+UML
+```
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="mailto:kalelfer.1405@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00D9F5?style=for-the-badge&logo=gmail&logoColor=black">
+<a href="https://www.linkedin.com/in/kalel-f-24213139a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## Contribuições
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Flutter+Developer;UI%2FUX+Designer;Sempre+aprendendo+novas+tecnologias"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 
-</div>
+  <img alt="snake animation"
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
